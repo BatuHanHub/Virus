@@ -22,4 +22,5 @@ Kullanıcı programı çalıştırdığında birsürü .txt dosyası oluşturur.
 - Bilgisayarınız donduysa Win+R yaparak çalıştırı açın
 - Çıkan pencere `taskmgr.exe` yazınız.
 - Programın bulun ve sağ tık yaparak görevini sonlandırın.
+### alternatif yol
 - Bilgisayarınızı yeniden başlatın.
