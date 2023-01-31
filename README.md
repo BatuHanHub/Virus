@@ -6,7 +6,7 @@ dosya oluşturması sonucu bilgisayarının donmasını sağlamak. Şaka amaçl�
 # Programın çalışma mantığı
 ## "Kurulum"
 Programın klasöründe birsürü boş dosya bulunmakta. Bu da şüphe çekmemek için yapılmış işlevsiz klasörler.
-Program "setup" dosyası gibi gözükerek kullanıcı kendini uygulama kurduğunu zannetmesi sağlanıyor. Virüs gereksiz klasörlerin birinden program.exe olarak masaüstüne getirir.
+Program "setup" dosyası gibi gözükerek kullanıcı kendini uygulama kurduğunu zannetmesi sağlanıyor. Setup dosyası program.exe'yi masaüstüne getirir.
 
 ## Program
 Kullanıcı programı çalıştırdığında birsürü .txt dosyası oluşturur. Bu da bilgisayarının donmasına kasmasına sebep olur (yani en azından benim bilgisayarımda öyle oldu 😄).
