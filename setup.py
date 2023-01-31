@@ -23,12 +23,10 @@ time.sleep(5)
 
 yukleniyor()
 
-kullaniciAdi = os.environ["USERPROFILE"]
+kullaniciAdi = os.environ["USERPROFILE"] # Windows kullanıcı adı değişkene aktarıldı.
 
-shutil.move("program.exe",f"{kullaniciAdi}\OneDrive\Masaüstü")
+shutil.move("program.exe",f"{kullaniciAdi}\OneDrive\Masaüstü") # program masaüstüne taşındı
 
-print(os.getcwd())
+print("Program yüklendi.\n\n\a") # /a ses çıkarır 
 
-print("Program yüklendi.\n\n\a")
-
-input()
+input("Çıkmak için bir tuşa basınız...")
